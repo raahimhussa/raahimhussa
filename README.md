@@ -2,7 +2,7 @@
 
 ## 💫 About Me:  
 - 🎓 Junior at **FAST NUCES, Karachi**, studying **BS Computer Science**.  
-- 💻 Experienced in **DSA, Web Development, Graphic Design, and UI/UX**.  
+- 💻 Experienced in **DSA, Web Development, and UI/UX**.  
 - 🔍 Exploring **Machine Learning and Data Science**.  
 
 ---
