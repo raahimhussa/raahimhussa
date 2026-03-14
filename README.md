@@ -1,6 +1,6 @@
 # Raahim Hussain Siddiqui
 
-🎓 Junior at **FAST NUCES, Karachi** — BS Computer Science (2022 – Present)  
+🎓 Senior at **FAST NUCES, Karachi** — BS Computer Science (2022 – Present)  
 💼 Freelance Software Developer & Full-Stack Engineer  
 🔍 Exploring **AI/ML, LLMs, and Scalable Cloud-Native Architecture**
 
@@ -62,5 +62,5 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raahimhussa)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raahimhussain.siddiqui.5/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raahimhussainsiddiqui/)
-📧 raahimhussain1420@gmail.com  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raahimhussain1420@gmail.com)  
 📞 +92 334-3993255
